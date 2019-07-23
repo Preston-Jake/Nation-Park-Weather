@@ -1,4 +1,4 @@
-# Nation-Park-Wather
+# Nation-Park-Weather
 
 Build an application using grunt to get data from the following API: https://raw.githubusercontent.com/nss-day-cohort-31/national-parks/master/database.json.
 
